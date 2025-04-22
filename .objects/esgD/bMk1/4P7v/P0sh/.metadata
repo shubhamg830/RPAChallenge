@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT 3umur",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "P0shNlJhRUy901fY5yVV_w",
+  "Reference": "5SxC4b1LcEqOaIsXC1kMeg/P0shNlJhRUy901fY5yVV_w",
+  "ParentRef": "5SxC4b1LcEqOaIsXC1kMeg/4P7vCbRRIESpomNDH-3V9Q",
+  "Created": "2025-04-22T13:24:59.213012Z",
+  "Updated": "2025-04-22T13:24:59.213012Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

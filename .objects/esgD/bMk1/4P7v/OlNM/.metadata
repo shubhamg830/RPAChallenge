@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT iUYKf",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "OlNMKl6AY0iBhVbnSK5TpA",
+  "Reference": "5SxC4b1LcEqOaIsXC1kMeg/OlNMKl6AY0iBhVbnSK5TpA",
+  "ParentRef": "5SxC4b1LcEqOaIsXC1kMeg/4P7vCbRRIESpomNDH-3V9Q",
+  "Created": "2025-04-22T13:18:43.3591801Z",
+  "Updated": "2025-04-22T13:18:43.3591801Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

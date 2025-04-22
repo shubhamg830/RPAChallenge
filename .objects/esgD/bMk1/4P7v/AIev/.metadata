@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT aZiVW",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "AIevdL_GDUq_v4t2DeMz5Q",
+  "Reference": "5SxC4b1LcEqOaIsXC1kMeg/AIevdL_GDUq_v4t2DeMz5Q",
+  "ParentRef": "5SxC4b1LcEqOaIsXC1kMeg/4P7vCbRRIESpomNDH-3V9Q",
+  "Created": "2025-04-22T13:21:03.4266763Z",
+  "Updated": "2025-04-22T13:21:03.4266763Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT otsUj",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "sf_qGnuezUmCz4uZOSNXpQ",
+  "Reference": "5SxC4b1LcEqOaIsXC1kMeg/sf_qGnuezUmCz4uZOSNXpQ",
+  "ParentRef": "5SxC4b1LcEqOaIsXC1kMeg/4P7vCbRRIESpomNDH-3V9Q",
+  "Created": "2025-04-22T13:15:30.0433116Z",
+  "Updated": "2025-04-22T13:15:30.0433116Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
